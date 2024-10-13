@@ -1,19 +1,23 @@
-### ¡Hola! 👋 Soy Sebastián
+### ¡Hola! 👋 Soy Seba
 
-Un **Animador Recreativo** con una fuerte pasión por la **Tecnología**. Mi experiencia en la animación me ha permitido desarrollar habilidades comunicativas entre otras competencias que me han ayudado a destacar en la gestión de grupos y en la colaboración con diferentes perfiles profesionales, siempre aportando un enfoque dinámico y creativo.
+🤝 Soy apasionado por la tecnología y me gusta trabajar en proyectos de interés o gran impacto, utilizando diferentes metodologías. Mi experiencia en animación ha potenciado mis habilidades blandas, como la comunicación y el trabajo colaborativo, además de fortalecer mi rol como facilitador.
 
-Además, poseo un **nivel avanzado de inglés (C2)**, certificado por el **EF SET**, lo que me permite comunicarme con fluidez y adaptarme a entornos internacionales. También cuento con experiencia previa en **diseño gráfico** utilizando herramientas como **Canva** y otras plataformas de diseño, lo que me permite aportar una perspectiva visual atractiva y efectiva en la presentación de ideas y datos.
+🌍 Además, poseo un nivel avanzado de inglés (C2), certificado por el EF SET, lo que me permite comunicarme con fluidez y adaptarme a entornos internacionales.
 
-He adquirido sólidos conocimientos en **Data Science**, con un enfoque en las siguientes herramientas y tecnologías:
-- 💻 Python | MySQL
-- 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI 
+🚀 Mi objetivo es trabajar en un entorno colaborativo y saludable que potencie mi crecimiento profesional, permitiéndome seguir ampliando mis habilidades y conocimientos.
+
+### Mis habilidades:
+- 💻 Python | MySQL | JavaScript 
+- 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI
+- 🌐 Web Scraping | Beautiful Soup | Scrapy
 - 🛢 MySQL | Almacenamiento en la nube | AWS | Google Cloud
 - 📊 Power BI
 - ⚙️ GitHub | Jupyter | Visual Studio Code
+- 🎨 Canva 
 
-### ¿Cuál es mi objetivo? 🚀
-Busco incorporarme en un ambiente de trabajo saludable y desafiante que me permita seguir creciendo profesional y personalmente. Mi objetivo es aplicar mis conocimientos en **data science**, así como seguir desarrollando nuevas habilidades en campos relacionados con la tecnología, la programación y el análisis de datos, contribuyendo a crear soluciones eficientes y creativas.
+Estoy siempre abierto a nuevos desafíos y oportunidades que me permitan crecer y aportar valor. Si crees que podemos colaborar o si tienes una propuesta en mente, no dudes en contactarme!
 
-### Contacto ✉️
-- sebalopez1014@gmail.com
-- linkedin.com/in/sebastian-lopez-bianchessi
+📬 **Contacto:**
+- GitHub: [github.com/sebalopez14](https://github.com/sebalopez14)
+- Mail: [sebalopez1014@gmail.com](mailto:sebalopez1014@gmail.com)
+
